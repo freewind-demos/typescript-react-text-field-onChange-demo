@@ -1,5 +1,5 @@
-TypeScript React Hello World Demo
-=================================
+TypeScript React Text Field "onChange" Demo
+============================================
 
 ```
 npm install
